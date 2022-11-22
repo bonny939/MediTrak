@@ -16,13 +16,7 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.AdapterView;
-import android.widget.ArrayAdapter;
-import android.widget.LinearLayout;
-import android.widget.ScrollView;
-import android.widget.Spinner;
-import android.widget.TextView;
-import android.widget.Toast;
+import android.widget.*;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.app.AppCompatDelegate;
@@ -43,6 +37,7 @@ import projects.medicationtracker.Views.StandardCardView;
 
 public class MainActivity extends AppCompatActivity
 {
+    private  TableLayout tableLayout;
     private final DBHelper db = new DBHelper(this);
     private LinearLayout scheduleLayout;
     private LocalDate aDayThisWeek;

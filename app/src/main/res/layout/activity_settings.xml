@@ -133,11 +133,11 @@
                         android:text="@string/license"
                         style="@style/standardTextView"/>
 
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:text="@string/purpose"
-                        style="@style/standardTextView"/>
+<!--                    <TextView-->
+<!--                        android:layout_width="wrap_content"-->
+<!--                        android:layout_height="wrap_content"-->
+<!--                        android:text="@string/purpose"-->
+<!--                        style="@style/standardTextView"/>-->
 
                     <TextView
                         android:layout_width="wrap_content"
@@ -145,11 +145,11 @@
                         android:text="@string/copyright"
                         style="@style/standardTextView"/>
 
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:text="@string/licenseInfo"
-                        style="@style/standardTextView"/>
+<!--                    <TextView-->
+<!--                        android:layout_width="wrap_content"-->
+<!--                        android:layout_height="wrap_content"-->
+<!--                        android:text="@string/licenseInfo"-->
+<!--                        style="@style/standardTextView"/>-->
 
                     <TextView
                         android:layout_width="wrap_content"

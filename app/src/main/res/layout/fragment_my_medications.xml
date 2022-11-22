@@ -58,15 +58,13 @@
                 android:layout_weight="1">
 
                 <com.google.android.material.button.MaterialButton
-                    android:id="@+id/myMedsNotes"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:minWidth="100dp"
-                    android:text="@string/notes"
-                    app:cornerRadius="30dp"
-                    android:layout_marginStart="25pt"
-                    android:layout_centerHorizontal="true"
-                    android:layout_centerVertical="true"/>
+                        android:id="@+id/myMedsNotes"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:minWidth="100dp"
+                        android:text="@string/notes"
+                        app:cornerRadius="30dp"
+                        android:layout_centerVertical="true"/>
             </RelativeLayout>
 
 
